@@ -6,3 +6,5 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_munch.mk
+    $(LOCAL_DIR)/infinity_munch.mk \
+    $(LOCAL_DIR)/derp_munch.mk
